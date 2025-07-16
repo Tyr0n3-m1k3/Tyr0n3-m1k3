@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Tyr0n3-m1k3
-- 👀 I’m interested in Artificial Intelligence and Novel reading.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any Python project that involves AI.
-- 📫 How to reach me -- truthuthi@gmail.com
+### **Web Designer & Developer** 🌐  
+Specializing in **Front-End Development**, I create beautiful, responsive, and user-friendly websites.  
 
-<!---
-Tyr0n3-m1k3/Tyr0n3-m1k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Currently Working On** 🚀  
+🔹 A **Future Food Delivery App** – Stay tuned for updates!  
+
+### **Looking to Collaborate** 🤝  
+Interested in working together on web projects, UI/UX design, or front-end development? Let's connect!  
+
+### **How to Reach Me** 📬  
+📧 Email: **[thedevtay@gmail.com](mailto:thedevtay@gmail.com)**  
+
+---  
+✨ **Let’s build something amazing!**
