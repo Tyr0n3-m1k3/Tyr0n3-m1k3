@@ -2,7 +2,7 @@
 Specializing in **Front-End Development**, I create beautiful, responsive, and user-friendly websites.  
 
 ### **Expanding My Skills** 📱  
-🔥 Currently learning **Swift** to become a **Full iOS Developer** and specialize in mobile app development.  
+🔥 Currently learning **Flutter** and **Swift** to become a **Full ios Developer** and specialize in mobile app development.  
 
 ### **Currently Working On** 🚀  
 🔹 A **Future Food Delivery App** – Coming soon for both web & iOS!  
